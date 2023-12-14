@@ -1,0 +1,19 @@
+ create a web  application using react js with below problem statements
+
+
+ 1.user can  create add delete edit
+ 2.the card must contain  name and  a video/mp3 link
+ 3.the user has the flexibility to create bucket to categaries and card according  to his/her choice
+ 4.user can move a card to different bucket
+ 5.on clicking on the card a model with an iframe should open which start playing video
+ 5.user can create and delete a single card  or multiple card under a single bucket  at once
+ 7.there should be a separate tab called histery which list the mp3/mp4 links that you have played
+
+    ie,  the  card name  the link and the item was played
+
+    tech stack
+    -------
+    1.  front-end : react js
+    2.back-end :create and use json server  
+
+    
